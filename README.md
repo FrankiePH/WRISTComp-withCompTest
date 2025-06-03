@@ -1,0 +1,1 @@
+<p>This is a <strong>test </strong>component that uses another component</p>
