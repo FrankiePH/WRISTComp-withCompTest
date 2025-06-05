@@ -187,18 +187,6 @@
     {
       "name": "New Item",
       "mro": "M",
-      "description": "Test",
-      "valueSets": "",
-      "implamentationGuidance": "",
-      "informationType": "Record",
-      "type": "item",
-      "minimumMultiplicity": "0",
-      "maximumMultiplicity": "1",
-      "concept": []
-    },
-    {
-      "name": "New Item",
-      "mro": "M",
       "description": "",
       "valueSets": "",
       "implamentationGuidance": "",
