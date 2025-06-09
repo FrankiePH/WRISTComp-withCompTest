@@ -255,6 +255,46 @@
       "minimumMultiplicity": "0",
       "maximumMultiplicity": "1",
       "concept": []
+    },
+    {
+      "concept": [
+        {
+          "concept": [],
+          "description": "",
+          "implamentationGuidance": "",
+          "informationType": "Record",
+          "maximumMultiplicity": "1",
+          "minimumMultiplicity": "0",
+          "mro": "M",
+          "name": "Child row A",
+          "type": "item",
+          "valueSets": "",
+          "derivedFrom": "WRISTComp-Test"
+        },
+        {
+          "concept": [],
+          "description": "",
+          "implamentationGuidance": "",
+          "informationType": "Record",
+          "maximumMultiplicity": "1",
+          "minimumMultiplicity": "0",
+          "mro": "M",
+          "name": "Child row B",
+          "type": "item",
+          "valueSets": "",
+          "derivedFrom": "WRISTComp-Test"
+        }
+      ],
+      "description": "This is a test component with two children",
+      "implamentationGuidance": "",
+      "informationType": "Record",
+      "maximumMultiplicity": "1",
+      "minimumMultiplicity": "0",
+      "mro": "M",
+      "name": "Test Component",
+      "type": "item",
+      "valueSets": "",
+      "derivedFrom": "WRISTComp-Test"
     }
   ]
 }
