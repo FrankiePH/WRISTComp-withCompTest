@@ -18,5 +18,5 @@
       "informationType": "Record",
       "type": "item",
       "minimumMultiplicity": "0",
-      "maximumMultiplicity": "1"}
+      "maximumMultiplicity": "1"}]
 }
