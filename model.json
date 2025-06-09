@@ -68,6 +68,18 @@
                   "name": "Child row B",
                   "type": "item",
                   "valueSets": ""
+                },
+                {
+                  "name": "New Item",
+                  "mro": "M",
+                  "description": "",
+                  "valueSets": "",
+                  "implamentationGuidance": "",
+                  "informationType": "Record",
+                  "type": "item",
+                  "minimumMultiplicity": "0",
+                  "maximumMultiplicity": "1",
+                  "concept": []
                 }
               ],
               "description": "This is a test component with two children",
