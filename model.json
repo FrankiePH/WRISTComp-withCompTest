@@ -58,7 +58,7 @@
       "name": "Test Component",
       "type": "item",
       "valueSets": "",
-      "derivedFrom": "WRISTComp-Test"
+      "derivedFrom": "WRISTComp-Test CHANGED"
     }
   ]
 }
