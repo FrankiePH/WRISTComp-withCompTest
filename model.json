@@ -154,7 +154,7 @@
           "derivedFrom": "wristcomp_test.child_row_b@995456777"
         }
       ],
-      "description": "This is a test component with two children",
+      "description": "This is a test component with two children test",
       "implamentationGuidance": "",
       "informationType": "Record",
       "maximumMultiplicity": "1",
